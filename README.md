@@ -12,7 +12,7 @@
 - 🔭 Sedang belajar: Flutter, pengembangan aplikasi mobile
 - 📊 Familiar dengan analisis data menggunakan SPSS
 - 🌱 Tertarik mengembangkan skill di bidang software development
-- 📫 Hubungi saya: [email-kamu@example.com](mailto:obedsiahaan1336@gmail.com)
+- 📫 Hubungi saya: [obedsiahaan1336@gmail.com](mailto:obedsiahaan1336@gmail.com)
 
 ## 🛠️ Tech Stack
 
