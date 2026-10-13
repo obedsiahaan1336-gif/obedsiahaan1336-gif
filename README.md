@@ -32,7 +32,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=obedsiahaan1336-gif&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
 ## 🤝 Terhubung dengan Saya
